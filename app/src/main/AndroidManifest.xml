@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.XLab">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Order_List"></activity>
+        <activity android:name=".place_pharmacy_order" />
+        <activity android:name=".Pharmacy_List" />
+        <activity android:name=".Update_Pharmacy_order" />
+        <activity android:name=".BMR_Calculator" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".doctor_appointment" />
+        <activity android:name=".customerHome" />
+        <activity android:name=".UpdateDelete_doc_appoin" />
+        <activity android:name=".Doctor_List" />
+        <activity android:name=".DisplayLabBkDetails" />
+        <activity android:name="com.example.XLab.LabTestList" />
+        <activity android:name="com.example.XLab.MyLabBookings" />
+        <activity android:name=".HealthCal" />
+        <activity android:name="com.example.XLab.PatientHome" />
+        <activity android:name="com.example.XLab.LabTestAppointment" />
+        <activity android:name=".BMI_calculator" />
+        <activity android:name=".FirstPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+    </application>
+
+</manifest>

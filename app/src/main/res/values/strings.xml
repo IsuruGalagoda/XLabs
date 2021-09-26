@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">X LAB</string>
+    <string name="Pname">Patient Name</string>
+    <string name="CntctNo">Contact Number</string>
+    <string name="email">E-mail</string>
+
+    <string name="NIC">NIC No</string>
+    <string name="regNo">Registration No</string>
+    <string name="labName">Laboratory Name</string>
+
+    <string name="search">Search</string>
+
+    <string name="name">X LAB</string>
+    <string name="about">ABOUT US</string>
+    <string name="privacy">PRIVACY and POLICY</string>
+    <string name="createacc">Create Pharmacy Account</string>
+
+    <string name="uname">Username</string>
+    <string name="pw">Password</string>
+
+    <string name="repw">Re-enter password</string>
+
+    <string name="phname">Phamacy Name</string>
+    <string name="owname">Name of the owner</string>
+    <string name="addrs">Address</string>
+    <string name="no">Phone Number</string>
+    <string name="regno">Pharmacy reg.No</string>
+    <string name="sample_Email">rashmiraveena@gmail.com</string>
+    <string name="sample_regno">11/12A</string>
+    <string name="sample_pharmName">Sithara Pharmacy</string>
+    <string name="sample_owname">Mr.Saman Kumara</string>
+    <string name="sample_address">Sithara pharmacy,Matara</string>
+    <string name="sample_phone">0711231231</string>
+    <string name="sample_ph_no">p0001</string>
+    <string name="ptent_phr">Pharmacy No.</string>
+    <string name="ptent_name">Patient Name</string>
+    <string name="ptent_address">Address</string>
+    <string name="ptent_phn">Phone number</string>
+    <string name="ptent_list">Medicine List</string>
+    <string name="ptent_dte">Date</string>
+
+</resources>

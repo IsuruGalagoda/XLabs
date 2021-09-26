@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+
+
+
+
+    <color name="colorAccent">#03DAC5</color>
+    <color name="captions">#020D25</color>
+    <color name="textBackground">#FCB5E0F4</color>
+    <color name="buttonTextColour">#B3C9F6</color>
+    <color name="buttonBackground">#0A0F2E</color>
+    <color name="formTxtBackground">#D3C3E6</color>
+    <color name="formTxtColour">#120327</color>
+    <color name="logBackground">#091A59</color>
+    <color name="colorWhite">#FFFF</color>
+    <color name="colorSteelBlue">#4682B4</color>
+    <color name="colorsilver">#C0C0C0</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorMaroon">#800000</color>
+</resources>
